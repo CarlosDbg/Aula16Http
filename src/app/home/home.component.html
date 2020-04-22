@@ -1,0 +1,15 @@
+<h1>Postagens:</h1>
+<button (click)="novaPostagem()">Nova postagem</button>
+<br><br>
+<div *ngFor="let postagem of postagens">
+  <p>{{postagem.conteudo}}</p>
+  <p> Gostou: {{postagem.likes}}</p>
+  <p> Não Gostou: {{postagem.dislikes}}</p>
+  <br>
+
+  <button (click)="gostei(postagem)">Gostei</button>
+  <button (click)="naoGostei(postagem)">Não Gostei</button>
+  <button (click)="editar(postagem)">Editar</button>
+  <!--<button (click)="apagar(postagem)">Apagar</button> !-->
+  <button (click)="verDetalhes(postagem)">Detalhes</button>
+</div>

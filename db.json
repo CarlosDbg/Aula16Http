@@ -1,0 +1,181 @@
+{
+  "postagens": [
+    {
+      "conteudo": "asdasdasdasdasdasd",
+      "data": "2020-04-15T22:24:57.853Z",
+      "likes": 0,
+      "dislikes": 0,
+      "id": 1
+    },
+    {
+      "conteudo": "ssssssss",
+      "data": "2020-04-15T22:37:13.307Z",
+      "likes": 0,
+      "dislikes": 0,
+      "id": 2
+    },
+    {
+      "conteudo": "sssssss",
+      "data": "2020-04-15T22:37:39.091Z",
+      "likes": 0,
+      "dislikes": 0,
+      "id": 3
+    },
+    {
+      "conteudo": "teste",
+      "data": "2020-04-15T22:45:12.491Z",
+      "likes": 0,
+      "dislikes": 0,
+      "id": 4
+    },
+    {
+      "conteudo": "Teste 123",
+      "data": "2020-04-15T23:14:11.644Z",
+      "likes": 0,
+      "dislikes": 0,
+      "id": 5
+    },
+    {
+      "conteudo": "Nova postagem",
+      "data": "2020-04-15T23:15:07.759Z",
+      "likes": 0,
+      "dislikes": 0,
+      "id": 6
+    },
+    {
+      "conteudo": "carlos",
+      "data": "2020-04-22T22:06:42.645Z",
+      "likes": 0,
+      "dislikes": 0,
+      "id": 7
+    },
+    {
+      "conteudo": "asd",
+      "data": "2020-04-22T22:09:29.793Z",
+      "likes": 0,
+      "dislikes": 0,
+      "id": 8
+    },
+    {
+      "conteudo": "ss",
+      "data": "2020-04-22T22:10:49.179Z",
+      "likes": 0,
+      "dislikes": 0,
+      "id": 9
+    },
+    {
+      "conteudo": "Carlossss",
+      "data": "2020-04-22T22:47:33.460Z",
+      "likes": 0,
+      "dislikes": 0,
+      "id": 10
+    },
+    {
+      "conteudo": "hjjh",
+      "data": "2020-04-22T22:53:11.705Z",
+      "likes": 0,
+      "dislikes": 0,
+      "id": 11
+    },
+    {
+      "conteudo": "jhjhhj",
+      "data": "2020-04-22T23:15:21.987Z",
+      "likes": 0,
+      "dislikes": 0,
+      "id": 12
+    },
+    {
+      "conteudo": "Carlos",
+      "data": "2020-04-22T23:20:37.482Z",
+      "likes": 0,
+      "dislikes": 0,
+      "id": 13
+    },
+    {
+      "conteudo": "12",
+      "data": "2020-04-22T23:20:40.567Z",
+      "likes": 0,
+      "dislikes": 0,
+      "id": 14
+    },
+    {
+      "conteudo": "hjwdhjahdhjahjads",
+      "data": "2020-04-22T23:25:27.924Z",
+      "likes": 0,
+      "dislikes": 0,
+      "id": 15
+    },
+    {
+      "conteudo": "carlos",
+      "data": "2020-04-22T23:27:33.013Z",
+      "dataEdicao": "2020-04-22T23:27:33.013Z",
+      "likes": 0,
+      "dislikes": 0,
+      "id": 16
+    },
+    {
+      "conteudo": "Carlos",
+      "data": "2020-04-22T23:27:37.335Z",
+      "dataEdicao": "2020-04-22T23:27:37.335Z",
+      "likes": 0,
+      "dislikes": 0,
+      "id": 17
+    },
+    {
+      "conteudo": "Carlos",
+      "data": "2020-04-22T23:29:48.660Z",
+      "dataEdicao": "2020-04-22T23:29:48.660Z",
+      "likes": 0,
+      "dislikes": 0,
+      "id": 18
+    },
+    {
+      "conteudo": "Carlos",
+      "data": "2020-04-22T23:31:09.822Z",
+      "dataEdicao": "2020-04-22T23:31:09.822Z",
+      "likes": 0,
+      "dislikes": 0,
+      "id": 19
+    },
+    {
+      "conteudo": "Carlos",
+      "data": "2020-04-22T23:38:24.673Z",
+      "dataEdicao": "2020-04-22T23:38:24.673Z",
+      "likes": 0,
+      "dislikes": 0,
+      "id": 20
+    },
+    {
+      "conteudo": "Carlos2",
+      "data": "2020-04-22T23:38:35.850Z",
+      "dataEdicao": "2020-04-22T23:38:35.850Z",
+      "likes": 0,
+      "dislikes": 0,
+      "id": 21
+    },
+    {
+      "conteudo": "Carloss",
+      "data": "2020-04-22T23:40:20.215Z",
+      "dataEdicao": "2020-04-22T23:40:20.215Z",
+      "likes": 0,
+      "dislikes": 0,
+      "id": 22
+    },
+    {
+      "conteudo": "Carlos",
+      "data": "2020-04-22T23:42:34.977Z",
+      "dataEdicao": "2020-04-22T23:42:34.977Z",
+      "likes": 0,
+      "dislikes": 0,
+      "id": 23
+    },
+    {
+      "conteudo": "Carlos",
+      "data": "2020-04-22T23:42:46.964Z",
+      "dataEdicao": "2020-04-22T23:42:46.964Z",
+      "likes": 0,
+      "dislikes": 0,
+      "id": 24
+    }
+  ]
+}
